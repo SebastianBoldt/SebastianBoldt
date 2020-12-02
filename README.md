@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **SwiftUI, Combine, Core Data, Cloudkit**
 
-- 📫 How to reach me: **self.dealloc@icloud.com*
+- 📫 How to reach me: **self.dealloc@icloud.com**
 
 - 🎹 I make electronic dance music: [Soundcloud](https://soundcloud.com/sebastian_boldt), [Spotify](https://open.spotify.com/artist/10m1VL1DyqBfIJw54rOefh), [Apple Music](https://music.apple.com/de/artist/sebastian-boldt/487807420)
 
