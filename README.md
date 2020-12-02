@@ -10,7 +10,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@sebastianbo](https://medium.com/@sebastianbo)
 
-- 💬 Ask me about **Swift, Xcode, Core Data, Cloudkit**
+- 💬 Ask me about **SwiftUI, Combine, Core Data, Cloudkit**
 
 - 📫 How to reach me **self.dealloc@icloud.com**
 
