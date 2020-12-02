@@ -12,6 +12,6 @@
 
 - 💬 Ask me about **SwiftUI, Combine, Core Data, Cloudkit**
 
-- 📫 How to reach me **self.dealloc@icloud.com**
+- 📫 How to reach me: **self.dealloc@icloud.com**
 
-- 📄 Know about my experiences [https://www.sebastianboldt.com](https://www.sebastianboldt.com)
+- 📄 Know about my experiences: [Developer Story](https://stackoverflow.com/users/story/1448340)
