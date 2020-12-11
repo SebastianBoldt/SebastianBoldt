@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [HabitBe](https://apps.apple.com/gb/app/habitbe-weekly-habit-tracker/id1527811684)
 
-- 🌱 I’m currently learning **SwiftUI, Combine**
+- 🌱 I’m currently learning **SwiftUI, Combine, Core Data, Cloudkit**
 
 - 👨‍💻 All of my projects are available at [https://www.sebastianboldt.com/developer](https://www.sebastianboldt.com/developer)
 
