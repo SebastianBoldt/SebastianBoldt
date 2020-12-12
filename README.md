@@ -2,7 +2,7 @@
 <h3 align="center">A passionate iOS developer from Germany</h3>
 
 
-- 🔭 I’m currently working on [HabitBe](https://apps.apple.com/gb/app/habitbe-weekly-habit-tracker/id1527811684) & [Immowelt](https://apps.apple.com/de/app/immowelt-immobiliensuche/id354119842)
+- 🔭 I’m currently working on [HabitBe(private)](https://apps.apple.com/gb/app/habitbe-weekly-habit-tracker/id1527811684) & [Immowelt(employed)](https://apps.apple.com/de/app/immowelt-immobiliensuche/id354119842)
 
 - 🌱 I’m currently learning **SwiftUI, Combine, Core Data, Cloudkit**
 
