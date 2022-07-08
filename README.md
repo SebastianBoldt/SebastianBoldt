@@ -16,4 +16,4 @@
 
 - 🎹 I make electronic dance music: [Soundcloud](https://soundcloud.com/sebastian_boldt), [Spotify](https://open.spotify.com/artist/10m1VL1DyqBfIJw54rOefh), [Apple Music](https://music.apple.com/de/artist/sebastian-boldt/487807420)
 
-- 📄 Know about my experiences: [Developer Story](https://stackoverflow.com/users/story/1448340)
+- 🧑🏻‍💻 Website: [sebastianboldt.com](sebastianboldt.com)
