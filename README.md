@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [HabitBe(private)](https://apps.apple.com/de/app/habitbe-weekly-habit-tracker/id1527811684) & [Immowelt(employed)](https://apps.apple.com/de/app/immowelt-immobiliensuche/id354119842)
 
-- 🌱 I’m currently learning **SwiftUI, Combine, Core Data, Cloudkit**
+- 🌱 I’m currently learning **Composable Architecture, SwiftUI, Combine, AudioKit**
 
 - 👨‍💻 All of my projects are available at [https://www.sebastianboldt.com/developer](https://www.sebastianboldt.com/developer)
 
