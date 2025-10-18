@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [HabitBe(private)](https://apps.apple.com/de/app/habitbe-weekly-habit-tracker/id1527811684) & [Immowelt(employed)](https://apps.apple.com/de/app/immowelt-immobiliensuche/id354119842)
 
-- 👨‍💻 All of my projects are available at [https://www.sebastianboldt.com/developer](https://www.sebastianboldt.com/developer)
-
 - 📝 I "regulary" write articles on [https://medium.com/@sebastianbo](https://medium.com/@sebastianbo)
 
 - 💬 Ask me about **SwiftUI, Combine, Core Data, Cloudkit, TCA**
